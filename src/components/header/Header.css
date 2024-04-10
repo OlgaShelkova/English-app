@@ -1,0 +1,33 @@
+.header {
+	padding: 46px 0 56px;
+    background-color: #7E30E1;
+    color: #F8FF95;
+}
+
+.header__row {
+	display: flex;
+	column-gap: 30px;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.header__logo {
+	display: flex;
+	align-items: center;
+	column-gap: 13px;
+}
+
+.header__logo span {
+	font-weight: 900;
+	font-size: 40px;
+	line-height: 1.5;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+}
+
+.header__nav {
+	font-weight: 500;
+	font-size: 22px;
+	line-height: 1.5;
+	letter-spacing: 0.01em;
+}
