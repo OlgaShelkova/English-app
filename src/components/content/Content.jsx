@@ -1,6 +1,6 @@
 import React from "react";
-import Form from "./Form.jsx";
-import Table from "./Table.jsx";
+import Form from "./form/Form";
+import Table from "./table/Table";
 
 function Content() {
   return (

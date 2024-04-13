@@ -1,8 +1,9 @@
+import React from "react";
 import "./Table.css";
 
 function Table() {
   return (
-    <div>
+    <div className="table">
       <table>
         <tr>
           <th>Колонка 1</th>
